@@ -1,0 +1,5 @@
+{"id":"summarize-transformers","prompt":"Summarize the main idea behind transformer neural networks in three concise bullet points."}
+{"id":"python-function","prompt":"Write a Python function that checks whether a string is a palindrome, and explain how it works."}
+{"id":"edge-ai","prompt":"Explain why low-latency inference matters for edge AI applications."}
+{"id":"email-draft","prompt":"Draft a short professional email asking a teammate to review a pull request before the end of the day."}
+{"id":"reasoning-puzzle","prompt":"A train leaves Lagos at 8:00 AM traveling 80 km/h. Another leaves Ibadan at 9:00 AM traveling 60 km/h toward Lagos. Explain how to determine when they meet if the cities are 130 km apart."}
